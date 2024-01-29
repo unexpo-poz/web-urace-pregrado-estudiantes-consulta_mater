@@ -15563,3 +15563,4 @@ C:[29/01/2024 12:00:22.44][172.16.4.20][51] SELECT COUNT (status) FROM dace006 W
 C:[29/01/2024 12:01:36.26][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='23-31596296' AND status IN ('7','A','2','R','Y') [1][0] OK
 C:[29/01/2024 12:26:56.47][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='18-26676849' AND status IN ('7','A','2','R','Y') [1][0] OK
 C:[29/01/2024 12:55:58.53][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='16-26132164' AND status IN ('7','A','2','R','Y') [1][0] OK
+C:[29/01/2024 14:05:55.74][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='22-31521887' AND status IN ('7','A','2','R','Y') [1][0] OK
