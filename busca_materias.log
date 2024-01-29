@@ -15552,3 +15552,14 @@ C:[27/01/2024 16:27:04.20][172.16.4.20][51] SELECT COUNT (status) FROM dace006 W
 *:[28/01/2024 23:41:18.20][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='' AND status IN ('7','A','2','R','Y') [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
 *:[28/01/2024 23:43:46.49][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='' AND status IN ('7','A','2','R','Y') [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 02:43:50.35][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='' AND status IN ('7','A','2','R','Y') [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 04:53:14.41][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='' AND status IN ('7','A','2','R','Y') [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 04:55:47.75][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='' AND status IN ('7','A','2','R','Y') [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[29/01/2024 11:59:17.03][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='21-30357707' AND status IN ('7','A','2','R','Y') [1][0] OK
+C:[29/01/2024 12:00:22.44][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='21-30357707' AND status IN ('7','A','2','R','Y') [1][0] OK
+C:[29/01/2024 12:01:36.26][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='23-31596296' AND status IN ('7','A','2','R','Y') [1][0] OK
+C:[29/01/2024 12:26:56.47][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='18-26676849' AND status IN ('7','A','2','R','Y') [1][0] OK
+C:[29/01/2024 12:55:58.53][172.16.4.20][51] SELECT COUNT (status) FROM dace006 WHERE lapso='2023-2' AND exp_e='16-26132164' AND status IN ('7','A','2','R','Y') [1][0] OK
